@@ -7,7 +7,7 @@ import (
 
 	"github.com/wailsapp/wails/v3/pkg/application"
 
-	"your_project_name/routes"
+	"github.com/morero/Wails3-HTMX-Templ-Template/routes"
 )
 
 //go:embed all:static

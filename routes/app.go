@@ -8,8 +8,8 @@ import (
 	"github.com/go-chi/chi/v5/middleware"
 	"github.com/go-chi/httplog/v2"
 
-	"your_project_name/components"
-	"your_project_name/pages"
+	"github.com/morero/Wails3-HTMX-Templ-Template/components"
+	"github.com/morero/Wails3-HTMX-Templ-Template/pages"
 )
 
 /*

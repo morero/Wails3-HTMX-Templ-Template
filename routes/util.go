@@ -6,7 +6,7 @@ import (
 	"github.com/a-h/templ"
 	"github.com/mavolin/go-htmx"
 
-	"your_project_name/pages"
+	"github.com/morero/Wails3-HTMX-Templ-Template/pages"
 )
 
 /*
