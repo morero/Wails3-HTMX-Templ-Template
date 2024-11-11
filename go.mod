@@ -1,6 +1,6 @@
 module github.com/morero/Wails3-HTMX-Templ-Template
 
-go 1.22.4
+go 1.23
 
 require (
 	github.com/a-h/templ v0.2.747
